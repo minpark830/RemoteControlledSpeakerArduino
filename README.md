@@ -18,3 +18,5 @@ Otherwise:
 # Software Libraries Needed
 Need to install the IR remote library by shirriff, z3t0, ArminJo<br />
 Link to it is: https://github.com/Arduino-IRremote/Arduino-IRremote
+# Circuit Schematics
+Coming soon...
