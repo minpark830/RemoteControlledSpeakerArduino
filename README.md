@@ -9,6 +9,7 @@ Otherwise:
 - LCD1602 Module(with pin header)
 - HC-SR501 PIR Motion Sensor Module
 - IR Receiver ELEGOO Module
+- Remote Control ELEGOO
 - Potentiometer 10K Ohms ELEGOO
 - any color LED
 - 2 220 Ohms resistors
