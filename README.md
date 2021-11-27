@@ -20,3 +20,5 @@ Need to install the IR remote library by shirriff, z3t0, ArminJo<br />
 Link to it is: https://github.com/Arduino-IRremote/Arduino-IRremote
 # Circuit Schematics
 Coming soon...
+# Thanks to 
+https://github.com/robsoncouto for compiling songs into usable arrays of notes and note types.
