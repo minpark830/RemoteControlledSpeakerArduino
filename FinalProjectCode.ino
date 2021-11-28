@@ -354,6 +354,12 @@ void turnDisplay(){
   digitalWrite(13, HIGH);
   delay(250);
   digitalWrite(13,LOW);
+  
+  // another to make LED flicker using PWM 
+  analogWrite(13, 255);
+  delay(250);
+  analogWrite(13,0);
+  
 }
 
 void setup(){
